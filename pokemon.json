@@ -1,0 +1,1052 @@
+pokemonJson = [
+  {
+    "#001": "#002",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Ivysaur",
+    "Grass": "Grass",
+    "Poison": "Poison"
+  },
+  {
+    "#001": "#003",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Venusaur",
+    "Grass": "Grass",
+    "Poison": "Poison"
+  },
+  {
+    "#001": "#004",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Charmander",
+    "Grass": "Fire",
+    "Poison": ""
+  },
+  {
+    "#001": "#005",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Charmeleon",
+    "Grass": "Fire",
+    "Poison": ""
+  },
+  {
+    "#001": "#006",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Charizard",
+    "Grass": "Fire",
+    "Poison": "Flying"
+  },
+  {
+    "#001": "#007",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Squirtle",
+    "Grass": "Water",
+    "Poison": ""
+  },
+  {
+    "#001": "#008",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Wartortle",
+    "Grass": "Water",
+    "Poison": ""
+  },
+  {
+    "#001": "#009",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Blastoise",
+    "Grass": "Water",
+    "Poison": ""
+  },
+  {
+    "#001": "#010",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Caterpie",
+    "Grass": "Bug",
+    "Poison": ""
+  },
+  {
+    "#001": "#011",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Metapod",
+    "Grass": "Bug",
+    "Poison": ""
+  },
+  {
+    "#001": "#012",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Butterfree",
+    "Grass": "Bug",
+    "Poison": "Flying"
+  },
+  {
+    "#001": "#013",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Weedle",
+    "Grass": "Bug",
+    "Poison": "Poison"
+  },
+  {
+    "#001": "#014",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Kakuna",
+    "Grass": "Bug",
+    "Poison": "Poison"
+  },
+  {
+    "#001": "#015",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Beedrill",
+    "Grass": "Bug",
+    "Poison": "Poison"
+  },
+  {
+    "#001": "#016",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Pidgey",
+    "Grass": "Normal",
+    "Poison": "Flying"
+  },
+  {
+    "#001": "#017",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Pidgeotto",
+    "Grass": "Normal",
+    "Poison": "Flying"
+  },
+  {
+    "#001": "#018",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Pidgeot",
+    "Grass": "Normal",
+    "Poison": "Flying"
+  },
+  {
+    "#001": "#019",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Rattata",
+    "Grass": "Normal",
+    "Poison": ""
+  },
+  {
+    "#001": "#020",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Raticate",
+    "Grass": "Normal",
+    "Poison": ""
+  },
+  {
+    "#001": "#021",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Spearow",
+    "Grass": "Normal",
+    "Poison": "Flying"
+  },
+  {
+    "#001": "#022",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Fearow",
+    "Grass": "Normal",
+    "Poison": "Flying"
+  },
+  {
+    "#001": "#023",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Ekans",
+    "Grass": "Poison",
+    "Poison": ""
+  },
+  {
+    "#001": "#024",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Arbok",
+    "Grass": "Poison",
+    "Poison": ""
+  },
+  {
+    "#001": "#025",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Pikachu",
+    "Grass": "Electric",
+    "Poison": ""
+  },
+  {
+    "#001": "#026",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Raichu",
+    "Grass": "Electric",
+    "Poison": ""
+  },
+  {
+    "#001": "#027",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Sandshrew",
+    "Grass": "Ground",
+    "Poison": ""
+  },
+  {
+    "#001": "#028",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Sandslash",
+    "Grass": "Ground",
+    "Poison": ""
+  },
+  {
+    "#001": "#029",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Nidoran♀",
+    "Grass": "Poison",
+    "Poison": ""
+  },
+  {
+    "#001": "#030",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Nidorina",
+    "Grass": "Poison",
+    "Poison": ""
+  },
+  {
+    "#001": "#031",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Nidoqueen",
+    "Grass": "Poison",
+    "Poison": "Ground"
+  },
+  {
+    "#001": "#032",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Nidoran♂",
+    "Grass": "Poison",
+    "Poison": ""
+  },
+  {
+    "#001": "#033",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Nidorino",
+    "Grass": "Poison",
+    "Poison": ""
+  },
+  {
+    "#001": "#034",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Nidoking",
+    "Grass": "Poison",
+    "Poison": "Ground"
+  },
+  {
+    "#001": "#035",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Clefairy",
+    "Grass": "Fairy",
+    "Poison": ""
+  },
+  {
+    "#001": "#036",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Clefable",
+    "Grass": "Fairy",
+    "Poison": ""
+  },
+  {
+    "#001": "#037",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Vulpix",
+    "Grass": "Fire",
+    "Poison": ""
+  },
+  {
+    "#001": "#038",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Ninetales",
+    "Grass": "Fire",
+    "Poison": ""
+  },
+  {
+    "#001": "#039",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Jigglypuff",
+    "Grass": "Normal",
+    "Poison": "Fairy"
+  },
+  {
+    "#001": "#040",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Wigglytuff",
+    "Grass": "Normal",
+    "Poison": "Fairy"
+  },
+  {
+    "#001": "#041",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Zubat",
+    "Grass": "Poison",
+    "Poison": "Flying"
+  },
+  {
+    "#001": "#042",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Golbat",
+    "Grass": "Poison",
+    "Poison": "Flying"
+  },
+  {
+    "#001": "#043",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Oddish",
+    "Grass": "Grass",
+    "Poison": "Poison"
+  },
+  {
+    "#001": "#044",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Gloom",
+    "Grass": "Grass",
+    "Poison": "Poison"
+  },
+  {
+    "#001": "#045",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Vileplume",
+    "Grass": "Grass",
+    "Poison": "Poison"
+  },
+  {
+    "#001": "#046",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Paras",
+    "Grass": "Bug",
+    "Poison": "Grass"
+  },
+  {
+    "#001": "#047",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Parasect",
+    "Grass": "Bug",
+    "Poison": "Grass"
+  },
+  {
+    "#001": "#048",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Venonat",
+    "Grass": "Bug",
+    "Poison": "Poison"
+  },
+  {
+    "#001": "#049",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Venomoth",
+    "Grass": "Bug",
+    "Poison": "Poison"
+  },
+  {
+    "#001": "#050",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Diglett",
+    "Grass": "Ground",
+    "Poison": ""
+  },
+  {
+    "#001": "#051",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Dugtrio",
+    "Grass": "Ground",
+    "Poison": ""
+  },
+  {
+    "#001": "#052",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Meowth",
+    "Grass": "Normal",
+    "Poison": ""
+  },
+  {
+    "#001": "#053",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Persian",
+    "Grass": "Normal",
+    "Poison": ""
+  },
+  {
+    "#001": "#054",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Psyduck",
+    "Grass": "Water",
+    "Poison": ""
+  },
+  {
+    "#001": "#055",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Golduck",
+    "Grass": "Water",
+    "Poison": ""
+  },
+  {
+    "#001": "#056",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Mankey",
+    "Grass": "Fighting",
+    "Poison": ""
+  },
+  {
+    "#001": "#057",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Primeape",
+    "Grass": "Fighting",
+    "Poison": ""
+  },
+  {
+    "#001": "#058",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Growlithe",
+    "Grass": "Fire",
+    "Poison": ""
+  },
+  {
+    "#001": "#059",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Arcanine",
+    "Grass": "Fire",
+    "Poison": ""
+  },
+  {
+    "#001": "#060",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Poliwag",
+    "Grass": "Water",
+    "Poison": ""
+  },
+  {
+    "#001": "#061",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Poliwhirl",
+    "Grass": "Water",
+    "Poison": ""
+  },
+  {
+    "#001": "#062",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Poliwrath",
+    "Grass": "Water",
+    "Poison": "Fighting"
+  },
+  {
+    "#001": "#063",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Abra",
+    "Grass": "Psychic",
+    "Poison": ""
+  },
+  {
+    "#001": "#064",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Kadabra",
+    "Grass": "Psychic",
+    "Poison": ""
+  },
+  {
+    "#001": "#065",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Alakazam",
+    "Grass": "Psychic",
+    "Poison": ""
+  },
+  {
+    "#001": "#066",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Machop",
+    "Grass": "Fighting",
+    "Poison": ""
+  },
+  {
+    "#001": "#067",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Machoke",
+    "Grass": "Fighting",
+    "Poison": ""
+  },
+  {
+    "#001": "#068",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Machamp",
+    "Grass": "Fighting",
+    "Poison": ""
+  },
+  {
+    "#001": "#069",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Bellsprout",
+    "Grass": "Grass",
+    "Poison": "Poison"
+  },
+  {
+    "#001": "#070",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Weepinbell",
+    "Grass": "Grass",
+    "Poison": "Poison"
+  },
+  {
+    "#001": "#071",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Victreebel",
+    "Grass": "Grass",
+    "Poison": "Poison"
+  },
+  {
+    "#001": "#072",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Tentacool",
+    "Grass": "Water",
+    "Poison": "Poison"
+  },
+  {
+    "#001": "#073",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Tentacruel",
+    "Grass": "Water",
+    "Poison": "Poison"
+  },
+  {
+    "#001": "#074",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Geodude",
+    "Grass": "Rock",
+    "Poison": "Ground"
+  },
+  {
+    "#001": "#075",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Graveler",
+    "Grass": "Rock",
+    "Poison": "Ground"
+  },
+  {
+    "#001": "#076",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Golem",
+    "Grass": "Rock",
+    "Poison": "Ground"
+  },
+  {
+    "#001": "#077",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Ponyta",
+    "Grass": "Fire",
+    "Poison": ""
+  },
+  {
+    "#001": "#078",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Rapidash",
+    "Grass": "Fire",
+    "Poison": ""
+  },
+  {
+    "#001": "#079",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Slowpoke",
+    "Grass": "Water",
+    "Poison": "Psychic"
+  },
+  {
+    "#001": "#080",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Slowbro",
+    "Grass": "Water",
+    "Poison": "Psychic"
+  },
+  {
+    "#001": "#081",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Magnemite",
+    "Grass": "Electric",
+    "Poison": "steel"
+  },
+  {
+    "#001": "#082",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Magneton",
+    "Grass": "Electric",
+    "Poison": "steel"
+  },
+  {
+    "#001": "#083",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Farfetch'd",
+    "Grass": "Normal",
+    "Poison": "Flying"
+  },
+  {
+    "#001": "#084",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Doduo",
+    "Grass": "Normal",
+    "Poison": "Flying"
+  },
+  {
+    "#001": "#085",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Dodrio",
+    "Grass": "Normal",
+    "Poison": "Flying"
+  },
+  {
+    "#001": "#086",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Seel",
+    "Grass": "Water",
+    "Poison": ""
+  },
+  {
+    "#001": "#087",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Dewgong",
+    "Grass": "Water",
+    "Poison": "Ice"
+  },
+  {
+    "#001": "#088",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Grimer",
+    "Grass": "Poison",
+    "Poison": ""
+  },
+  {
+    "#001": "#089",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Muk",
+    "Grass": "Poison",
+    "Poison": ""
+  },
+  {
+    "#001": "#090",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Shellder",
+    "Grass": "Water",
+    "Poison": ""
+  },
+  {
+    "#001": "#091",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Cloyster",
+    "Grass": "Water",
+    "Poison": "Ice"
+  },
+  {
+    "#001": "#092",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Gastly",
+    "Grass": "Ghost",
+    "Poison": "Poison"
+  },
+  {
+    "#001": "#093",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Haunter",
+    "Grass": "Ghost",
+    "Poison": "Poison"
+  },
+  {
+    "#001": "#094",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Gengar",
+    "Grass": "Ghost",
+    "Poison": "Poison"
+  },
+  {
+    "#001": "#095",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Onix",
+    "Grass": "Rock",
+    "Poison": "Ground"
+  },
+  {
+    "#001": "#096",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Drowzee",
+    "Grass": "Psychic",
+    "Poison": ""
+  },
+  {
+    "#001": "#097",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Hypno",
+    "Grass": "Psychic",
+    "Poison": ""
+  },
+  {
+    "#001": "#098",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Krabby",
+    "Grass": "Water",
+    "Poison": ""
+  },
+  {
+    "#001": "#099",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Kingler",
+    "Grass": "Water",
+    "Poison": ""
+  },
+  {
+    "#001": "#100",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Voltorb",
+    "Grass": "Electric",
+    "Poison": ""
+  },
+  {
+    "#001": "#101",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Electrode",
+    "Grass": "Electric",
+    "Poison": ""
+  },
+  {
+    "#001": "#102",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Exeggcute",
+    "Grass": "Grass",
+    "Poison": "Psychic"
+  },
+  {
+    "#001": "#103",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Exeggutor",
+    "Grass": "Grass",
+    "Poison": "Psychic"
+  },
+  {
+    "#001": "#104",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Cubone",
+    "Grass": "Ground",
+    "Poison": ""
+  },
+  {
+    "#001": "#105",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Marowak",
+    "Grass": "Ground",
+    "Poison": ""
+  },
+  {
+    "#001": "#106",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Hitmonlee",
+    "Grass": "Fighting",
+    "Poison": ""
+  },
+  {
+    "#001": "#107",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Hitmonchan",
+    "Grass": "Fighting",
+    "Poison": ""
+  },
+  {
+    "#001": "#108",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Lickitung",
+    "Grass": "Normal",
+    "Poison": ""
+  },
+  {
+    "#001": "#109",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Koffing",
+    "Grass": "Poison",
+    "Poison": ""
+  },
+  {
+    "#001": "#110",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Weezing",
+    "Grass": "Poison",
+    "Poison": ""
+  },
+  {
+    "#001": "#111",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Rhyhorn",
+    "Grass": "Ground",
+    "Poison": ""
+  },
+  {
+    "#001": "#112",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Rhydon",
+    "Grass": "Rock",
+    "Poison": ""
+  },
+  {
+    "#001": "#113",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Chansey",
+    "Grass": "Normal",
+    "Poison": ""
+  },
+  {
+    "#001": "#114",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Tangela",
+    "Grass": "Grass",
+    "Poison": ""
+  },
+  {
+    "#001": "#115",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Kangaskhan",
+    "Grass": "Normal",
+    "Poison": ""
+  },
+  {
+    "#001": "#116",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Horsea",
+    "Grass": "Water",
+    "Poison": ""
+  },
+  {
+    "#001": "#117",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Seadra",
+    "Grass": "Water",
+    "Poison": ""
+  },
+  {
+    "#001": "#118",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Goldeen",
+    "Grass": "Water",
+    "Poison": ""
+  },
+  {
+    "#001": "#119",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Seaking",
+    "Grass": "Water",
+    "Poison": ""
+  },
+  {
+    "#001": "#120",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Staryu",
+    "Grass": "Water",
+    "Poison": ""
+  },
+  {
+    "#001": "#121",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Starmie",
+    "Grass": "Water",
+    "Poison": "Psychic"
+  },
+  {
+    "#001": "#122",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Mr. Mime",
+    "Grass": "Psychic",
+    "Poison": "Fairy"
+  },
+  {
+    "#001": "#123",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Scyther",
+    "Grass": "Bug",
+    "Poison": "Flying"
+  },
+  {
+    "#001": "#124",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Jynx",
+    "Grass": "Ice",
+    "Poison": "Psychic"
+  },
+  {
+    "#001": "#125",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Electabuzz",
+    "Grass": "Electric",
+    "Poison": ""
+  },
+  {
+    "#001": "#126",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Magmar",
+    "Grass": "Fire",
+    "Poison": ""
+  },
+  {
+    "#001": "#127",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Pinsir",
+    "Grass": "Bug",
+    "Poison": ""
+  },
+  {
+    "#001": "#128",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Tauros",
+    "Grass": "Normal",
+    "Poison": ""
+  },
+  {
+    "#001": "#129",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Magikarp",
+    "Grass": "Water",
+    "Poison": ""
+  },
+  {
+    "#001": "#130",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Gyarados",
+    "Grass": "Water",
+    "Poison": "Flying"
+  },
+  {
+    "#001": "#131",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Lapras",
+    "Grass": "Water",
+    "Poison": "Ice"
+  },
+  {
+    "#001": "#132",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Ditto",
+    "Grass": "Normal",
+    "Poison": ""
+  },
+  {
+    "#001": "#133",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Eevee",
+    "Grass": "Normal",
+    "Poison": ""
+  },
+  {
+    "#001": "#134",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Vaporeon",
+    "Grass": "Water",
+    "Poison": ""
+  },
+  {
+    "#001": "#135",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Jolteon",
+    "Grass": "Electric",
+    "Poison": ""
+  },
+  {
+    "#001": "#136",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Flareon",
+    "Grass": "Fire",
+    "Poison": ""
+  },
+  {
+    "#001": "#137",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Porygon",
+    "Grass": "Normal",
+    "Poison": ""
+  },
+  {
+    "#001": "#138",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Omanyte",
+    "Grass": "Rock",
+    "Poison": "Water"
+  },
+  {
+    "#001": "#139",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Omastar",
+    "Grass": "Rock",
+    "Poison": "Water"
+  },
+  {
+    "#001": "#140",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Kabuto",
+    "Grass": "Rock",
+    "Poison": "Water"
+  },
+  {
+    "#001": "#141",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Kabutops",
+    "Grass": "Rock",
+    "Poison": "Water"
+  },
+  {
+    "#001": "#142",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Aerodactyl",
+    "Grass": "Rock",
+    "Poison": "Flying"
+  },
+  {
+    "#001": "#143",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Snorlax",
+    "Grass": "Normal",
+    "Poison": ""
+  },
+  {
+    "#001": "#144",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Articuno",
+    "Grass": "Ice",
+    "Poison": "Flying"
+  },
+  {
+    "#001": "#145",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Zapdos",
+    "Grass": "Electric",
+    "Poison": "Flying"
+  },
+  {
+    "#001": "#146",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Moltres",
+    "Grass": "Fire",
+    "Poison": "Flying"
+  },
+  {
+    "#001": "#147",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Dratini",
+    "Grass": "Dragon",
+    "Poison": ""
+  },
+  {
+    "#001": "#148",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Dragonair",
+    "Grass": "Dragon",
+    "Poison": ""
+  },
+  {
+    "#001": "#149",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Dragonite",
+    "Grass": "Dragon",
+    "Poison": "Flying"
+  },
+  {
+    "#001": "#150",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Mewtwo",
+    "Grass": "Psychic",
+    "Poison": ""
+  },
+  {
+    "#001": "#151",
+    "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png": "https://lh3.googleusercontent.com/-smI5p-zu0yg/VuESGAPnL6I/AAAAAAAAF48/lzadz7S87341SNyXoDcj5Py914ve89jfACCo/s290/Bulbasaur%2BPokemon%2BGo.png",
+    "Bulbasaur": "Mew",
+    "Grass": "Psychic",
+    "Poison": ""
+  }
+]

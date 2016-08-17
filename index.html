@@ -1,0 +1,144 @@
+<html>
+<head>
+<style>
+table, th, td {
+    border: 1px solid black;
+}
+</style>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="data.js"></script>
+<script src="typeStrongWeak.js"></script>
+<script>
+	playerScores = [];
+	playerScores['1'] = 0;
+	playerScores['2'] = 0;
+	playerScores['3'] = 0;
+	currentStrongAgainst = "";
+	currentWeakAgainst = "";
+	currentMore = "";
+	function findNextPokemon (){
+		$("#dataHolder").empty();
+		$("#divHolder").empty();
+		$("#strengthHolder").empty();
+		$("#weaknessHolder").empty();
+		var data_length = pokemonJson.length;
+		var random = Math.floor((Math.random() * data_length) + 1);
+		selectedPokemon = pokemonJson[random];
+		loadImg(selectedPokemon['url']);
+
+		//find strength and weakness
+		currentStrongAgainst = "";
+		currentWeakAgainst = "";
+		currentMore = "";
+		for (var i = 0; i < typeStrongWeak.length; i++) { 
+		    if(typeStrongWeak[i]['type'] == selectedPokemon['type1'] || typeStrongWeak[i]['type'] == selectedPokemon['type2']){
+		    	currentStrongAgainst += " " + typeStrongWeak[i]['strong against'];
+		    	currentWeakAgainst += " " + typeStrongWeak[i]['weak against'];
+		    	currentMore += typeStrongWeak[i]['more'];
+		    }
+		}
+	}
+
+	function showWeakness(){
+		$("<span></span>").text("Weak against: " + currentWeakAgainst).appendTo($("#weaknessHolder"));
+	}
+
+	function showStrengths(){
+		$("<span></span>").text("Strong against: " + currentStrongAgainst).appendTo($("#strengthHolder"));
+	}
+
+	function showType(){
+		var typesString = selectedPokemon['type1'] + " " + selectedPokemon['type2'];
+		$("<span></span>").text(selectedPokemon['name'] + ": ").appendTo($("#dataHolder"));
+		$("<span></span>").text(typesString).appendTo($("#dataHolder"));
+	}
+
+	function loadImg(imgUrl){
+		
+		var img = $("<img />").attr('src', imgUrl).on('load', function() {
+	        if (!this.complete || typeof this.naturalWidth == "undefined" || this.naturalWidth == 0) {
+	            alert('broken image!');
+	        } else {
+	            img.attr('width')
+	            $("#divHolder").append(img);
+	        }
+	    }).height(200).width(200);
+	}
+
+	function changePlayerPoints(player, howMuch){
+		playerScores[player] += howMuch;
+		updatePointsDisplay();
+		
+	}
+
+	function updatePointsDisplay(){
+		$("#player1pts").empty();
+		$("<span></span>").text(playerScores[1]).appendTo($("#player1pts"));
+		$("#player2pts").empty();
+		$("<span></span>").text(playerScores[2]).appendTo($("#player2pts"));
+		$("#player3pts").empty();
+		$("<span></span>").text(playerScores[3]).appendTo($("#player3pts"));
+	}
+
+	// $.each(json, function (i, jsonObjectList) {
+	// for (var index = 0; index < jsonObjectList.listValue_.length;index++) {
+	//       alert(jsonObjectList.listKey_[index][0] + " -- " + jsonObjectList.listValue_[index].description_);
+	//       }
+	//  });
+	(function(){
+	   findNextPokemon();
+	})()
+</script>
+</head>
+
+<body>
+	<h1>Pokemon Go</h1>
+	<table>
+		<tr>
+			<td>
+				<div id="divHolder" style="width: 200px; height: 200px;"></div>
+			</td>
+			<td>
+				<table>
+					<tr>
+						<td>
+							<button onclick="showType()">show type</button>
+							<button onclick="showWeakness()">show weakensses</button><br>
+							<button onclick="showStrengths()">show stengths</button>
+							<button onclick="findNextPokemon()">Next</button>
+						</td>
+					</tr>
+				</table>
+				
+				<div id="dataHolder" style="width: 200px; height: 100px;"></div>
+				<div id="strengthHolder" style="width: 200px; height: 50px;"></div>
+				<div id="weaknessHolder" style="width: 200px; height: 50px;"></div>
+			</td>
+			<td>
+				<TABLE>
+					<tr><td>
+						Player 1 points:<div id="player1pts">0</div>
+						<button onclick="changePlayerPoints(1, -1)"> - </button>
+						<button onclick="changePlayerPoints(1, 1)"> + </button>
+					</td></tr>	
+					<tr><td>
+						Player 2 points:<div id="player2pts">0</div>
+						<button onclick="changePlayerPoints(2, -1)"> - </button>
+						<button onclick="changePlayerPoints(2, 1)"> + </button>
+					</td></tr>	
+					<tr><td>
+						Player 3 points:<div id="player3pts">0</div>
+						<button onclick="changePlayerPoints(3, -1)"> - </button>
+						<button onclick="changePlayerPoints(3, 1)"> + </button>
+					</td></tr>		
+				</TABLE>
+			</td>
+		</tr>
+	</table>
+	<br>
+	
+	<br>
+	
+</body>
+</html>
+
